@@ -1,6 +1,6 @@
 ---
 title: Create your own website with git and github-pages
-theme: white_nb.css
+theme: white
 ---
 
 ### Create your own website with jekyll and github-pages
